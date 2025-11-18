@@ -1,0 +1,1 @@
+Este repositorio se basa en la recopilación de casos practicos de análisis de datos
